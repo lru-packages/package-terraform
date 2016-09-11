@@ -69,8 +69,6 @@ package:
 		--rpm-os linux \
 		--rpm-auto-add-directories \
 		--template-scripts \
-		--after-install after-install.sh \
-		--after-remove after-remove.sh \
 		terraform \
 	;
 
