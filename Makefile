@@ -1,5 +1,5 @@
 NAME=terraform
-VERSION=0.9.1
+VERSION=0.9.2
 EPOCH=1
 ITERATION=1
 PREFIX=/usr/local/bin
