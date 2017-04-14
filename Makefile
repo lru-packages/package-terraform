@@ -1,5 +1,5 @@
 NAME=terraform
-VERSION=0.9.2
+VERSION=0.9.3
 ITERATION=1.lru
 PREFIX=/usr/local/bin
 LICENSE=BSD
