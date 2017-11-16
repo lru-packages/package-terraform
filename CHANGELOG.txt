@@ -1,3 +1,6 @@
+* Thu Nov 16 2017 Ryan Parman <ryan@ryanparman.com> 0.10.8-1
+- Bundles Terraform 0.10.8.
+
 * Sat Sep 23 2017 Ryan Parman <ryan@ryanparman.com> 0.10.6-1
 - Bundles Terraform 0.10.6.
 
